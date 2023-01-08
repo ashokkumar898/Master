@@ -99,7 +99,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Copy data-change1",
+						"name": "Copy data-change3",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {

@@ -23,7 +23,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Copy data313",
+						"name": "Copy data-change1",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
